@@ -1,6 +1,9 @@
 1 k8s dns
 https://jimmysong.io/posts/configuring-kubernetes-kube-dns/#inheriting-dns-from-the-node
+
 2 redis知识 常用命令
 https://www.runoob.com/redis/redis-tutorial.html
 遗留问题：docker-compose安装redis，容器中redis-cli命令无法使用（没有进行端口映射）
+
+3 docker常用命令
 
